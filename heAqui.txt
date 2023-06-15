@@ -1,1 +1,2 @@
 Hoy practicamos con GIT, ta dificil.
+Hola, soy Vero.
